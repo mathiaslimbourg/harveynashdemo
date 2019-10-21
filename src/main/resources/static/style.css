@@ -1,0 +1,14 @@
+.orderTable{
+    width: 100%;
+}
+
+.tittles{
+    background-color: darkslategray;
+    color: white;
+    margin-top: 20px;
+}
+
+h3,p{
+    padding-left: 20px;
+}
+
